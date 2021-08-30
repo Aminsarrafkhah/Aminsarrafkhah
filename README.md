@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Aminsarrafkhah
+- 👀 I’m interested in python,PHP,C,... programming
+- 🌱 I’m currently learning Python
